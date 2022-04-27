@@ -14,7 +14,7 @@
 - I do not need to work, but work because I love what I do (technical work). 
 - I am motivated when I work on projects that have purpose, are properly staffed, well funded, and I can make a positive impact. 
 - I am not motivated to work on projects that have poor requirements, no clear direction, lack funding, and/or low morale. 
-- Best of lunk in your endeavours!
+- Best of luck in your endeavours!
 - Thanks for reading
 
 <!---

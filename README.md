@@ -7,7 +7,7 @@
 - I subsequently worked for many Fortune 500 companies in the 80's and 90's
 - I have been writing Java and C# code since 1995. 
 - I retire(d) from University of California Office of the President in June 2022
-- At UC, I was the technical lead responsible for tracking $8 billion is US Federal funds/grants at 10 campuses.
+- At UC, I was the technical lead responsible for tracking $8 billion is US federal funds/grants at 10 campuses.
 - I am an experienced Project Manager, Business Analyst, Java and C# coder, QA Analyst, Deployment Engineeer, and Operations Manager. 
 - I am only interested in contract opportunities and not full time employment. 
 - I can provide impeccable references. 

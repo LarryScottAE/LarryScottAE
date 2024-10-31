@@ -7,7 +7,7 @@
 - I have been writing Java and C++/C# applications since 1995.
 - I also have extensive DBA experience in Oracle, DB2, MSSQL databases
 - I am proficient in networks, routers, switches, hubs, IP4/6,... but not a heavyweight.
-- I retire(d) from University of California Office of the President in June 2022.
+- I retired from University of California Office of the President in June 2022.
 - I was the technical lead responsible for a government regulatory compliance system monitoring $8 billion is US federal grant funds across 10 UC campuses and 5 UC medical centers. 
 - I am interested in contract opportunities, but not looking for full time employment. 
 - I can provide impeccable references. 
